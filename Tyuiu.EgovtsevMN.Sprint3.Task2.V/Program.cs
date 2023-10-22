@@ -3,9 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Tyuiu.EgovtsevMN.Sprint3.Task1.V.Lib;
+using Tyuiu.EgovtsevMN.Sprint3.Task1.V22.Lib;
+using Tyuiu.EgovtsevMN.Sprint3.Task1.V22.Lib;
 
-namespace Tyuiu.EgovtsevMN.Sprint3.Task2.V
+namespace Tyuiu.EgovtsevMN.Sprint3.Task2.V22
 {
     class Program
     {
