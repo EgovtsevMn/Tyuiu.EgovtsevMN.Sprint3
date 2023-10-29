@@ -12,13 +12,13 @@ namespace Tyuiu.EgovtsevMN.Sprint3.Task5.V
         static void Main(string[] args)
         {
             DataService ds = new DataService();
-            Console.Title = "Спринт #3 │ Выполнил: Горбунов А.А. │ ИИПб-23-2";
+            Console.Title = "Спринт #3 │ Выполнил: Еговцев М.Н. │ АСОиУб-23-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
             Console.WriteLine("* Тема: Использование операторов continue и break в циклах                *");
             Console.WriteLine("* Задание #5                                                              *");
             Console.WriteLine("* Вариант #19                                                             *");
-            Console.WriteLine("* Вынолнил: Горбунов Александр Александрович │ ИИПб-23-2                  *");
+            Console.WriteLine("* Вынолнил: Еговцев Максим Николавеич │ АСОиУб-23-1                       *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Вычислить значения суммы функции                                        *");
